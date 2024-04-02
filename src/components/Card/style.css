@@ -1,0 +1,57 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .completed {
+    background-color: #e0e0e0;
+  }
+  
+  .card-description {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .card-buttons {
+    margin-top: 10px;
+  }
+  
+  .arrow-button,
+  .edit-button,
+  .delete-button {
+    padding: 5px 10px;
+    font-size: 14px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .arrow-button {
+    background-color: #837E71;
+    color: #000000;
+  }
+  
+  .arrow-button:hover {
+    background-color: #999585;
+  }
+  
+  .edit-button {
+    background-color: #8E3BF7;
+    color: #fff;
+  }
+  
+  .edit-button:hover {
+    background-color: #A13BF7;
+  }
+  
+  .delete-button {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  .delete-button:hover {
+    background-color: #c82333;
+  }
+  
